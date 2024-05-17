@@ -1,0 +1,8 @@
+{
+  "name": "vs-code-import-issue",
+  "private": true,
+  "main": "index.mjs",
+  "dependencies": {
+    "example": "^1.0.0"
+  }
+}
